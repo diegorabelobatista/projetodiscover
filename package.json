@@ -1,0 +1,10 @@
+{
+  "name": "projetodiscover",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido com HTML, CSS e JavaScript",
+  "main": "index.html",
+  "scripts": {},
+  "keywords": ["html", "css", "javascript"],
+  "author": "Seu Nome",
+  "license": "MIT"
+}
